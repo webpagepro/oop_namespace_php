@@ -1,11 +1,14 @@
 Setup
 
 ./haz setup
+
 ./haz start
 
 In your web browser, navigate to http://localhost:8100 to start the example.
 
 To execute the test suite: ./haz test
+
+
 Homework Assignments
 
 Your homework is to Refactor the Example table object creation from a functional approach to an OOP approach. You can choose however you want to do this, we will evaluate your approach that you took. There is no right or wrong answers, just an example of what you did. Choose any or all of the homework assignments in the list below.
