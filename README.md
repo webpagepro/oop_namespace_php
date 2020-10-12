@@ -1,5 +1,7 @@
 Setup
 
+Create local directory and clone files
+
 ./haz setup
 
 ./haz start
